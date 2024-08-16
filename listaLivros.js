@@ -23,6 +23,7 @@ const precosLivros = [
         titulo:"Python",
         preco:20,
     },
+
 ];
 
 module.exports = precosLivros;
